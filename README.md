@@ -1,5 +1,7 @@
 # Eventex
 
+Visite o site em: https://eventex-guilherme-gouw.herokuapp.com/
+
 Sistema de Eventos encomendado pela Morena.
 
 ## Como desenvolver?
