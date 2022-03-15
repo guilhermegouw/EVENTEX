@@ -4,7 +4,7 @@ from django.core import mail
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template.loader import render_to_string
-from eventex.subscriptions.forms import SubscriptionForm
+from subscriptions.forms import SubscriptionForm
 
 
 def subscribe(request):

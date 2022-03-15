@@ -1,5 +1,5 @@
 from django.test import TestCase
-from eventex.subscriptions.forms import SubscriptionForm
+from subscriptions.forms import SubscriptionForm
 
 
 class SubscriptionFormTest(TestCase):
