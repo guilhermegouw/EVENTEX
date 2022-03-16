@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     # 3rd
+    "test_without_migrations",
     "django_extensions",
     # Local
     "subscriptions",
